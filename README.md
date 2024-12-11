@@ -5,6 +5,7 @@ This repository contains two examples of REST APIs implemented using Node.js and
 
 ## Features
 
+
 1. **Example 1: REST API with Local JSON Storage**
    - A simple REST API that stores user data in a `database.json` file.
    - Endpoints for creating, retrieving, and accessing user data.
@@ -16,7 +17,9 @@ This repository contains two examples of REST APIs implemented using Node.js and
 
 ---
 
+
 ## Example 1: REST API with Local JSON Storage
+
 
 ### Installation
 1. Clone the repository and navigate to the project folder.
